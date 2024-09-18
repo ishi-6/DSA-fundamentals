@@ -1,11 +1,3 @@
-/**********************************************************
-
- * EECS2101A: Fundamentals of Data Structures,  Fall 2023
- * Assignment 2, Problem 3: AugmentedStack.java
- * Student Name:   Isha Pannu
- * Student EECS account:  pannui
- * Student ID number:  218061861
- **********************************************************/
 package a2;
 
 /**
